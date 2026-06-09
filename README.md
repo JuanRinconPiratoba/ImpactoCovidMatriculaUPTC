@@ -18,8 +18,8 @@ Para la identificación del efecto causal, se implementó un modelo de **Diferen
 
 El análisis asume el cumplimiento del supuesto de **tendencias paralelas** en el periodo pre-tratamiento.
 
-## 💻 Tecnologías y Herramientas Utilizadas
-* **R (vX.X.X):** Procesamiento de datos, estimación del modelo econométrico y pruebas de robustez.
+##  Tecnologías y Herramientas Utilizadas
+* **Rstudio:** Procesamiento de datos, estimación del modelo econométrico y pruebas de robustez.
 * **Paquetes clave:** `tidyverse` (limpieza), `fixest` o `plm` (modelos de panel/efectos fijos), `ggplot2` (visualización).
 * **Fuentes de datos:** Datos institucionales de matrícula de la UPTC / SNIES.
 
